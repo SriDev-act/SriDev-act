@@ -12,13 +12,4 @@ Hi, I am Sri Aravind, a passionate frontend developer dedicated to building resp
 ![](https://streak-stats.demolab.com/?user=SriDev-act&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SriDev-act&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SriDev-act&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=SriDev-act&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
